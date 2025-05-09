@@ -1,8 +1,8 @@
-# Custom License Agreement
+# License Agreement
 
-**[Your Name/Organization Name] - [Year of First Publication]**
+**Diagonals.tech - 2025**
 
-This license governs the use of the software project "[Your Project Name]" (the "Software"). By using, distributing, or modifying the Software, you agree to the terms of this license.
+This license governs the use of the software project "OpenEar". By using, distributing, or modifying the Software, you agree to the terms of this license.
 
 ## 1. Definitions
 
@@ -33,7 +33,7 @@ Subject to the terms and conditions of this license, you are granted the followi
 
 * You may use the Software for **Commercial Purposes**, provided that you comply with the attribution and source disclosure requirements in Section 3.
 * If your cumulative **Profit** from projects incorporating the Software or its Derivative Products reaches the **Threshold** of Five Lakhs (5,00,000) Indian Rupees (INR), you are obligated to pay the original source (the copyright holder identified at the beginning of this license) a royalty of **five percent (5%)** of all **Profit** exceeding this Threshold.
-* The terms and methods of royalty payment will be agreed upon in good faith between the User and the original source. The original source can be contacted at [Your Email Address or Contact Information].
+* The terms and methods of royalty payment will be agreed upon in good faith between the User and the original source. The original source can be contacted at khritish.official@gmail.com .
 
 ## 5. Prohibition of Patent on This Work
 
@@ -50,14 +50,3 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ORIGINAL SOURCE OF THE SO
 ## 8. Governing Law
 
 This license shall be governed by and construed in accordance with the laws of the Republic of India, without regard to its conflict of law principles.
-
----
-
-**Please Note:**
-
-* Replace `[Your Name/Organization Name]` and `[Year of First Publication]` with your actual details.
-* Replace `[Your Project Name]` with the name of your software project.
-* Replace `[Your Email Address or Contact Information]` with your preferred contact details for royalty-related inquiries.
-* **This is a custom license and has not been reviewed by legal professionals.** It is highly recommended that you consult with a lawyer specializing in intellectual property law in India to ensure this license is legally sound, enforceable, and achieves your specific goals. They can advise you on the best way to protect your rights and address potential ambiguities.
-
-By including this `LICENSE.md` file in the root of your GitHub repository, you are making these terms known to anyone who interacts with your project. However, the legal enforceability of the royalty clause, in particular, might depend on various legal factors and the clarity of its implementation. Legal consultation is crucial.
